@@ -6,7 +6,7 @@
 El proyecto nace de la necesidad de superar las limitaciones de los modelos actuales de pronóstico deterministico, que no cuantifican adecuadamente la incertidumbre y riesgo de eventos extremos de contaminación, cruciales para la toma de decisiones en salud pública.
 
 Documentación detallada:
-- [Documento principal — VAR_AIRE_MONTERREY]([./VAR_AIRE_MONTERREY.md](https://github.com/sntsemilio/MA2003B-Equipo-5-VaRaiM/blob/main/VAR_AIRE_MONTERREY.md))
+- [Documento principal — VAR_AIRE_MONTERREY]([[./VAR_AIRE_MONTERREY.md](https://github.com/sntsemilio/MA2003B-Equipo-5-VaRaiM/blob/main/VAR_AIRE_MONTERREY.md](https://github.com/sntsemilio/MA2003B-Equipo-5-VaRaiM/blob/main/Referencias/VAR_AIRE_MONTERREY.md)))
 
 ## Requisitos Previos
 
