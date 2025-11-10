@@ -153,4 +153,3 @@ distribuir el Software, con la condición de que:
 2. Debe mantenerse el aviso de copyright y esta nota de permiso en todas las copias.
 
 EL SOFTWARE SE PROPORCIONA “TAL CUAL”, SIN GARANTÍA DE NINGÚN TIPO.
-```
