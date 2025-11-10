@@ -5,6 +5,9 @@
 
 El proyecto nace de la necesidad de superar las limitaciones de los modelos actuales de pronóstico deterministico, que no cuantifican adecuadamente la incertidumbre y riesgo de eventos extremos de contaminación, cruciales para la toma de decisiones en salud pública.
 
+Documentación detallada:
+- [Documento principal — VAR_AIRE_MONTERREY](./VAR_AIRE_MONTERREY.md)
+
 ## Requisitos Previos
 
 - Python 3.10 o superior
